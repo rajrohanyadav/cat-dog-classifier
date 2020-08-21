@@ -17,11 +17,11 @@ Transfer Learning Model using densenet121 Pretrained model using PyTorch Deep Le
 
 - Data Folder
   - train
-    - dogs
-    - cats
+    - dog `[class1 name]`
+    - cat `[class2 name]`
   - test
-    - dogs
-    - cats
+    - dog `[class1 name]`
+    - cat `[class2 name]`
   
 ---
 
